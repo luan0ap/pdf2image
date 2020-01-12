@@ -29,17 +29,11 @@
     "pdf2img",
     "pdf2pic",
     "pdf2image",
-    "imagemagick",
-    "graphicsmagick",
-    "gm"
+    "cli-tool"
   ],
-  "author": "Jacob Baring <owari@waifu.club>",
+  "author": "Luan AP <luanap.kun@gmail.com>, Jacob Baring <owari@waifu.club>",
   "dependencies": {
-    "@babel/runtime": "^7.4.4",
-    "bluebird": "^3.5.1",
-    "fs-extra": "^4.0.2",
-    "gm": "^1.23.0",
-    "gm-base64": "^1.1.1"
+    "@babel/runtime": "^7.4.4"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
